@@ -1,0 +1,74 @@
+:root {
+    --font-main: 'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    --clr-bg: #ffffff;
+    --clr-text: #212529;
+    --clr-primary: #6366f1;
+    --clr-secondary: #10b981;
+    --radius: 0.5rem;
+    --shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    --shadow-hover: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+[data-theme="dark"] {
+    --clr-bg: #121212;
+    --clr-text: #e9ecef;
+    --clr-primary: #818cf8;
+    --clr-secondary: #34d399;
+}
+
+body {
+    font-family: var(--font-main);
+    background: var(--clr-bg);
+    color: var(--clr-text);
+    transition: background .3s,color .3s;
+}
+
+a {
+    color: var(--clr-primary);
+}
+
+.btn-primary {
+    background: var(--clr-primary);
+    border-color: var(--clr-primary);
+}
+
+.btn-hover-lift {
+    transition: transform .2s ease,box-shadow .2s ease;
+}
+
+    .btn-hover-lift:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-hover);
+    }
+
+.hero {
+    min-height: 60vh;
+    background: linear-gradient(135deg,var(--clr-primary),var(--clr-secondary));
+    color: #fff;
+}
+
+    .hero h1 {
+        font-weight: 700;
+        letter-spacing: -.025em;
+    }
+
+.card {
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    transition: box-shadow .3s ease;
+}
+
+    .card:hover {
+        box-shadow: var(--shadow-hover);
+    }
+/* single toggle */
+#themeToggle {
+    border: none;
+    background: transparent;
+    font-size: 1.2rem;
+    transition: transform .2s ease;
+}
+
+    #themeToggle:hover {
+        transform: rotate(15deg);
+    }

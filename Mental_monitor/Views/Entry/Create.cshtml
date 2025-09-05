@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "New Journal Entry";
+}
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <h2 class="mb-4" data-aos="fade-down">📝 How are you feeling right now?</h2>
+        <form asp-action="Create" method="post" data-aos="fade-up">
+            <div class="form-floating mb-3">
+                <textarea name="text" class="form-control" id="journalText" placeholder=" " rows="5" maxlength="2000" required></textarea>
+                <label for="journalText">Write freely...</label>
+                <div class="form-text">Mental Monitor will analyse emotions and show trends.</div>
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg btn-hover-lift w-100">Save & Analyse</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+<section class="hero d-flex align-items-center justify-content-center text-center">
+    <div class="container" data-aos="fade-up">
+        <h1 class="display-4 fw-bold">Your Emotional Wellness Companion</h1>
+        <p class="lead mb-4">Track moods, spot patterns, and grow stronger—one journal entry at a time.</p>
+        <a asp-controller="Entry" asp-action="Create" class="btn btn-primary btn-lg btn-hover-lift px-5">Start Journaling</a>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container">
+        <div class="row g-4">
+            <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center">
+                        <div class="mb-3"><i class="bi bi-pen fs-1 text-primary"></i></div>
+                        <h5 class="card-title">Express</h5>
+                        <p class="card-text">Write freely and let AI uncover your emotions.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center">
+                        <div class="mb-3"><i class="bi bi-graph-up fs-1 text-success"></i></div>
+                        <h5 class="card-title">Understand</h5>
+                        <p class="card-text">Visualise trends and spot emotional patterns.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+                <div class="card h-100 border-0 shadow-sm">
+                    <div class="card-body text-center">
+                        <div class="mb-3"><i class="bi bi-bell fs-1 text-warning"></i></div>
+                        <h5 class="card-title">Grow</h5>
+                        <p class="card-text">Receive gentle alerts when you need support.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
