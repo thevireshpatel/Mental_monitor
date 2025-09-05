@@ -98,8 +98,7 @@
               "RelativeToolTip": "Mental_monitor\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAowCsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T10:28:47.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T10:28:47.613Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "Mental_monitor\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T10:26:49.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T10:26:49.445Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "Mental_monitor\\wwwroot\\css\\site.css",
               "ViewState": "AgIAACwAAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-05T10:16:59.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T10:16:59.996Z"
             },
             {
               "$type": "Document",
@@ -137,8 +134,7 @@
               "RelativeToolTip": "Mental_monitor\\Controllers\\EmotionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T09:48:45.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T09:48:45.232Z"
             },
             {
               "$type": "Document",
@@ -150,8 +146,7 @@
               "RelativeToolTip": "Mental_monitor\\Services\\AlertService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T09:37:53.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T09:37:53.135Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "Mental_monitor\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T09:30:45.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T09:30:45.931Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "Mental_monitor\\Controllers\\AlertController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T09:18:56.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T09:18:56.462Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "Mental_monitor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T08:44:18.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T08:44:18.899Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "Mental_monitor\\Views\\Entry\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T07:55:28.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T07:55:28.927Z"
             },
             {
               "$type": "Document",
@@ -228,8 +219,7 @@
               "RelativeToolTip": "Mental_monitor\\Views\\Emotion\\Index.cshtml",
               "ViewState": "AgIAABoAAAAAAAAAAAAQwDEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T09:49:04.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T09:49:04.883Z"
             },
             {
               "$type": "Document",
@@ -241,8 +231,7 @@
               "RelativeToolTip": "Mental_monitor\\wwwroot\\css\\dark.css",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-05T10:04:03.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T10:04:03.517Z"
             },
             {
               "$type": "Document",
@@ -254,8 +243,7 @@
               "RelativeToolTip": "Mental_monitor\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-05T08:41:13.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T08:41:13.543Z"
             },
             {
               "$type": "Document",
@@ -267,8 +255,7 @@
               "RelativeToolTip": "Mental_monitor\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T07:54:41.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T07:54:41.014Z"
             },
             {
               "$type": "Document",
@@ -280,8 +267,7 @@
               "RelativeToolTip": "Mental_monitor\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T07:54:25.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T07:54:25.051Z"
             }
           ]
         }

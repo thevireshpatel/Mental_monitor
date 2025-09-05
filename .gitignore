@@ -1,0 +1,27 @@
+# Build artifacts
+bin/
+obj/
+Migrations/
+
+# User-specific files
+*.user
+*.suo
+*.log
+.vs/
+.vscode/
+
+# Python environment and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Large model file
+Mental_monitor/PythonBridge/model.safetensors
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
