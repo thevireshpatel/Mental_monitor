@@ -23,7 +23,7 @@ Mental Monitor is an ASP.NET Core MVC web application that helps users track emo
 ## Quick Start  
 ```bash
 # 1. Clone repo
-git clone https://github.com/yourname/Mental_monitor.git
+[https://github.com/thevireshpatel/Mental_monitor.git]
 cd Mental_monitor
 
 # 2. Install Python deps
