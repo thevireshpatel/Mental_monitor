@@ -1,31 +1,30 @@
 @model IEnumerable<Alert>
-
 @{
     ViewData["Title"] = "Alerts";
 }
-
-<h2>🚨 Alerts</h2>
-
-@if (!Model.Any())
-{
-    <div class="alert alert-success">No open alerts – keep up the good vibes!</div>
-}
-else
-{
-    <div class="list-group">
-        @foreach (var a in Model)
-        {
-            <div class="list-group-item list-group-item-@(a.Level==AlertLevel.Critical?"danger":a.Level==AlertLevel.Warning?"warning":"info")">
-                <div class="d-flex w-100 justify-content-between">
-                    <h6 class="mb-1">@a.Message</h6>
-                    <small>@a.CreatedAt.ToLocalTime().ToString("g")</small>
+<div class="container min-vh-100 bg-alert" data-aos="fade-up">
+    <h2 class="text-center mb-4">Alerts</h2>
+    @if (!Model.Any())
+    {
+        <div class="alert alert-success text-center">No open alerts – keep up the good vibes!</div>
+    }
+    else
+    {
+        <div class="list-group">
+            @foreach (var a in Model)
+            {
+                <div class="list-group-item list-group-item-@(a.Level == AlertLevel.Critical ? "danger" : a.Level == AlertLevel.Warning ? "warning" : "info")">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h6 class="mb-1">@a.Message</h6>
+                        <small>@a.CreatedAt.ToLocalTime().ToString("g")</small>
+                    </div>
+                    <p class="mb-1">From entry: @(a.Entry.Text.Length > 60 ? a.Entry.Text[..60] + "…" : a.Entry.Text)</p>
+                    <form asp-action="Dismiss" method="post" class="mt-2">
+                        <input type="hidden" name="id" value="@a.Id" />
+                        <button class="btn btn-sm btn-outline-dark">Dismiss</button>
+                    </form>
                 </div>
-                <p class="mb-1">From entry: @(a.Entry.Text.Length > 60 ? a.Entry.Text[..60] + "…" : a.Entry.Text)</p>
-                <form asp-action="Dismiss" method="post" class="mt-2">
-                    <input type="hidden" name="id" value="@a.Id" />
-                    <button class="btn btn-sm btn-outline-dark">Dismiss</button>
-                </form>
-            </div>
-        }
-    </div>
-}
+            }
+        </div>
+    }
+</div>

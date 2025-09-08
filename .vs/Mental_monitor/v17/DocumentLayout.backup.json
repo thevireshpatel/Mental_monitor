@@ -7,56 +7,28 @@
       "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\views\\entry\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\views\\entry\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\wwwroot\\css\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\wwwroot\\css\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\wwwroot\\css\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\wwwroot\\css\\dark.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\views\\emotion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\views\\emotion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\controllers\\emotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\controllers\\emotioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\services\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\services\\alertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\controllers\\alertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\views\\entry\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|solutionrelative:mental_monitor\\views\\entry\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B705237A-065E-4688-B8AD-693C8B78ECF6}|Mental_monitor\\Mental_monitor.csproj|d:\\cloud-info-soft\\aspnetcore\\mental_monitor\\mental_monitor\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,67 +62,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Mental_monitor\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Mental_monitor\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowCsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T10:28:47.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Mental_monitor\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Mental_monitor\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T10:26:49.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Mental_monitor\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Mental_monitor\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAACwAAAAAAAAAAAAiwEoAAAAAAAAAAAAAAA==",
+              "Title": "dark.css",
+              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\wwwroot\\css\\dark.css",
+              "RelativeDocumentMoniker": "Mental_monitor\\wwwroot\\css\\dark.css",
+              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\wwwroot\\css\\dark.css",
+              "RelativeToolTip": "Mental_monitor\\wwwroot\\css\\dark.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-05T10:16:59.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmotionController.cs",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Controllers\\EmotionController.cs",
-              "RelativeDocumentMoniker": "Mental_monitor\\Controllers\\EmotionController.cs",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Controllers\\EmotionController.cs",
-              "RelativeToolTip": "Mental_monitor\\Controllers\\EmotionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T09:48:45.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AlertService.cs",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Services\\AlertService.cs",
-              "RelativeDocumentMoniker": "Mental_monitor\\Services\\AlertService.cs",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Services\\AlertService.cs",
-              "RelativeToolTip": "Mental_monitor\\Services\\AlertService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T09:37:53.135Z",
+              "WhenOpened": "2025-09-08T05:54:15.87Z",
               "EditorCaption": ""
             },
             {
@@ -161,118 +81,79 @@
               "RelativeDocumentMoniker": "Mental_monitor\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Mental_monitor\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwD8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T09:30:58.63Z",
+              "WhenOpened": "2025-09-08T05:53:38.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Mental_monitor\\Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Mental_monitor\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T09:30:45.931Z",
+              "WhenOpened": "2025-09-08T05:46:54.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AlertController.cs",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Controllers\\AlertController.cs",
-              "RelativeDocumentMoniker": "Mental_monitor\\Controllers\\AlertController.cs",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Controllers\\AlertController.cs",
-              "RelativeToolTip": "Mental_monitor\\Controllers\\AlertController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Mental_monitor\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Mental_monitor\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T09:18:56.462Z",
+              "WhenOpened": "2025-09-08T05:41:46.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Program.cs",
-              "RelativeDocumentMoniker": "Mental_monitor\\Program.cs",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Program.cs",
-              "RelativeToolTip": "Mental_monitor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T08:44:18.899Z",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Mental_monitor\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Mental_monitor\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAwwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-08T05:41:32.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Entry\\Create.cshtml",
-              "RelativeDocumentMoniker": "Mental_monitor\\Views\\Entry\\Create.cshtml",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Entry\\Create.cshtml",
-              "RelativeToolTip": "Mental_monitor\\Views\\Entry\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T07:55:28.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Emotion\\Index.cshtml",
               "RelativeDocumentMoniker": "Mental_monitor\\Views\\Emotion\\Index.cshtml",
               "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Emotion\\Index.cshtml",
               "RelativeToolTip": "Mental_monitor\\Views\\Emotion\\Index.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwDEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T09:49:04.883Z",
+              "WhenOpened": "2025-09-08T05:40:56.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "dark.css",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\wwwroot\\css\\dark.css",
-              "RelativeDocumentMoniker": "Mental_monitor\\wwwroot\\css\\dark.css",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\wwwroot\\css\\dark.css",
-              "RelativeToolTip": "Mental_monitor\\wwwroot\\css\\dark.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-05T10:04:03.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\appsettings.json",
-              "RelativeDocumentMoniker": "Mental_monitor\\appsettings.json",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\appsettings.json",
-              "RelativeToolTip": "Mental_monitor\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-05T08:41:13.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Mental_monitor\\Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Mental_monitor\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Entry\\Create.cshtml",
+              "RelativeDocumentMoniker": "Mental_monitor\\Views\\Entry\\Create.cshtml",
+              "ToolTip": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Entry\\Create.cshtml",
+              "RelativeToolTip": "Mental_monitor\\Views\\Entry\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T07:54:41.014Z",
+              "WhenOpened": "2025-09-08T05:11:09.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Cloud-info-soft\\aspnetcore\\Mental_monitor\\Mental_monitor\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Mental_monitor\\Views\\Account\\Login.cshtml",

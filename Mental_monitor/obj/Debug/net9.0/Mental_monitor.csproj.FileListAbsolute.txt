@@ -218,7 +218,6 @@ D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\com
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\joht7wla4w-erw9l3u2r3.gz
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\ardpydte4m-c2jlpeoesf.gz
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\rma8irdrl7-bqjiyaj88i.gz
-D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\eqjr0q5o8z-xtxxf3hu2r.gz
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\7yipynh4a0-61n19gt1b8.gz
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\6lg6jq7p75-4kgto094fq.gz
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\fp3xtz1bh3-4kgto094fq.gz
@@ -234,4 +233,8 @@ D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\Men
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\ref\Mental_monitor.dll
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\qwbftsa0kc-jcm7u5huvp.gz
 D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\wjq8rwqzij-ijl4qsn17z.gz
+D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\h4k2nav1lg-enkmr77fbn.gz
+D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\2vmr3ebs5x-dxj6uu9d1p.gz
+D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\4iqki69s3e-rl1xvf56by.gz
+D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\eqjr0q5o8z-jp4pii94ki.gz
+D:\Cloud-info-soft\aspnetcore\Mental_monitor\Mental_monitor\obj\Debug\net9.0\compressed\wjq8rwqzij-10cogcl2us.gz

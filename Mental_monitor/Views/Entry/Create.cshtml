@@ -1,16 +1,36 @@
 @{
     ViewData["Title"] = "New Journal Entry";
 }
-<div class="row justify-content-center">
-    <div class="col-md-8">
-        <h2 class="mb-4" data-aos="fade-down">📝 How are you feeling right now?</h2>
-        <form asp-action="Create" method="post" data-aos="fade-up">
-            <div class="form-floating mb-3">
-                <textarea name="text" class="form-control" id="journalText" placeholder=" " rows="5" maxlength="2000" required></textarea>
-                <label for="journalText">Write freely...</label>
-                <div class="form-text">Mental Monitor will analyse emotions and show trends.</div>
-            </div>
-            <button type="submit" class="btn btn-primary btn-lg btn-hover-lift w-100">Save & Analyse</button>
-        </form>
+<div class="row justify-content-center min-vh-100 align-items-center bg-journal">
+    <div class="col-lg-6">
+        <div class="glass-card p-4 p-md-5 tilt-card" data-aos="fade-up">
+            <h2 class="mb-4 text-center">How are you feeling right now?</h2>
+            <form asp-action="Create" method="post">
+                <div class="form-floating mb-4 floating-label">
+                    <textarea name="text" class="form-control" id="journalText" placeholder=" " rows="5" maxlength="2000" required></textarea>
+                    <label for="journalText">Write freely...</label>
+                    <div class="form-text">Mental Monitor will analyse emotions and show trends.</div>
+                </div>
+                <button type="submit" class="btn btn-glow btn-lg w-100">Save & Analyse</button>
+            </form>
+        </div>
     </div>
 </div>
+
+@section Scripts {
+    <script>
+        // subtle parallax on card
+        const card = document.querySelector('.tilt-card');
+        card.addEventListener('mousemove', e => {
+            const rect = card.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const y = e.clientY - rect.top;
+            const rotateX = (y / rect.height - 0.5) * -15;
+            const rotateY = (x / rect.width - 0.5) * 15;
+            card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) scale(1.02)`;
+        });
+        card.addEventListener('mouseleave', () => {
+            card.style.transform = 'perspective(1000px) rotateX(0) rotateY(0) scale(1)';
+        });
+    </script>
+}

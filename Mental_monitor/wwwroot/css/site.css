@@ -1,10 +1,11 @@
+/* ===== ROOT PALETTE ===== */
 :root {
     --font-main: 'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     --clr-bg: #ffffff;
     --clr-text: #212529;
     --clr-primary: #6366f1;
     --clr-secondary: #10b981;
-    --radius: 0.5rem;
+    --radius: 1rem;
     --shadow: 0 .125rem .25rem rgba(0,0,0,.075);
     --shadow-hover: 0 .5rem 1rem rgba(0,0,0,.15);
 }
@@ -41,27 +42,6 @@ a {
         box-shadow: var(--shadow-hover);
     }
 
-.hero {
-    min-height: 60vh;
-    background: linear-gradient(135deg,var(--clr-primary),var(--clr-secondary));
-    color: #fff;
-}
-
-    .hero h1 {
-        font-weight: 700;
-        letter-spacing: -.025em;
-    }
-
-.card {
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
-    transition: box-shadow .3s ease;
-}
-
-    .card:hover {
-        box-shadow: var(--shadow-hover);
-    }
-/* single toggle */
 #themeToggle {
     border: none;
     background: transparent;
@@ -71,4 +51,122 @@ a {
 
     #themeToggle:hover {
         transform: rotate(15deg);
+    }
+
+/* ===== 3-D HOVER CARD ===== */
+.tilt-card {
+    transform-style: preserve-3d;
+    transition: transform .4s ease;
+}
+
+    .tilt-card:hover {
+        transform: perspective(1000px) rotateX(5deg) rotateY(-5deg) scale(1.02);
+    }
+
+/* ===== SECTION BG IMAGES ===== */
+.bg-hero {
+    background: url('/images/hero-light.jpg') center/cover no-repeat;
+    min-height: 60vh;
+}
+
+[data-theme="dark"] .bg-hero {
+    background: url('/images/hero-dark.jpg') center/cover no-repeat;
+}
+
+.bg-journal {
+    background: url('/images/journal-light.jpg') center/cover no-repeat fixed;
+    min-height: 100vh;
+}
+
+[data-theme="dark"] .bg-journal {
+    background: url('/images/journal-dark.jpg') center/cover no-repeat fixed;
+}
+
+.bg-trends {
+    background: url('/images/trends-light.jpg') center/cover no-repeat fixed;
+    min-height: 100vh;
+}
+
+[data-theme="dark"] .bg-trends {
+    background: url('/images/trends-dark.jpg') center/cover no-repeat fixed;
+}
+
+.bg-alert {
+    background: url('/images/alert-light.jpg') center/cover no-repeat fixed;
+    min-height: 100vh;
+}
+
+[data-theme="dark"] .bg-alert {
+    background: url('/images/alert-dark.jpg') center/cover no-repeat fixed;
+}
+
+/* ===== GLASS CARD ===== */
+.glass-card {
+    background: rgba(255,255,255,.15);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255,255,255,.2);
+    border-radius: var(--radius);
+    box-shadow: 0 8px 32px rgba(0,0,0,.1);
+    transition: box-shadow .3s ease;
+}
+
+[data-theme="dark"] .glass-card {
+    background: rgba(30,30,30,.15);
+    border: 1px solid rgba(255,255,255,.1);
+}
+
+.glass-card:hover {
+    box-shadow: 0 12px 40px rgba(0,0,0,.15);
+}
+
+/* ===== FLOATING LABEL ===== */
+.floating-label {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+    .floating-label textarea {
+        background: transparent;
+        border: none;
+        border-bottom: 2px solid var(--clr-primary);
+        border-radius: 0;
+        resize: vertical;
+        min-height: 140px;
+    }
+
+        .floating-label textarea:focus {
+            box-shadow: none;
+            border-color: var(--clr-secondary);
+        }
+
+    .floating-label label {
+        position: absolute;
+        top: .5rem;
+        left: .75rem;
+        transition: all .2s ease;
+        pointer-events: none;
+        color: var(--clr-primary);
+    }
+
+    .floating-label textarea:not(:placeholder-shown) + label,
+    .floating-label textarea:focus + label {
+        top: -1.5rem;
+        left: 0;
+        font-size: .8rem;
+        color: var(--clr-secondary);
+    }
+
+/* ===== GLOW BUTTON ===== */
+.btn-glow {
+    background: linear-gradient(135deg,var(--clr-primary),var(--clr-secondary));
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: .5px;
+    transition: transform .2s ease,box-shadow .2s ease;
+}
+
+    .btn-glow:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 20px rgba(99,102,241,.25);
     }

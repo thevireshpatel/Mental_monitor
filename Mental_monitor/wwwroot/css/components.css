@@ -1,0 +1,93 @@
+/* ---------- AMBIENT BACKGROUND ---------- */
+.ambient{
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(160deg, var(--g-top) 0%, var(--g-bottom) 100%);
+  transition: background var(--transition);
+}
+
+/* ---------- GLASSMORPHISM CARD ---------- */
+.card{
+  background: var(--c-surface);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255,255,255,.3);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  padding: 2rem;
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+.card:hover{
+  transform: translateY(-4px) rotateX(2deg) rotateY(-2deg);
+  box-shadow: var(--shadow-xl), 0 0 0 4px var(--c-glow);
+}
+
+/* ---------- MOOD RING (subtle border pulse) ---------- */
+.mood-ring{
+  position: relative;
+}
+.mood-ring::after{
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border-radius: inherit;
+  background: conic-gradient(from 180deg at 50% 50%, var(--c-primary) 0%, transparent 60%);
+  opacity: 0;
+  transition: opacity var(--transition);
+  z-index: -1;
+}
+.mood-ring:hover::after{ opacity: .45; }
+
+/* ---------- 3-D BUTTON ---------- */
+.btn-3d{
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .75rem 1.5rem;
+  border-radius: var(--radius);
+  background: var(--c-primary);
+  color: #fff;
+  font-weight: 500;
+  border: none;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+.btn-3d:hover{
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px -2px var(--c-glow);
+}
+.btn-3d:active{ transform: translateY(0); }
+
+/* ---------- FLOATING LABEL INPUT ---------- */
+.field{
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+.field input{
+  width: 100%;
+  padding: 1rem 1.25rem .6rem;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: var(--radius);
+  background: rgba(255,255,255,.6);
+  font-size: 1rem;
+  transition: border-color var(--transition);
+}
+.field label{
+  position: absolute;
+  left: 1.25rem;
+  top: 1rem;
+  color: rgba(0,0,0,.55);
+  pointer-events: none;
+  transition: all .2s ease;
+}
+.field input:focus + label,
+.field input:not(:placeholder-shown) + label{
+  top: -.55rem;
+  left: .75rem;
+  font-size: .75rem;
+  padding: 0 .25rem;
+  background: #fff;
+  color: var(--c-primary);
+}

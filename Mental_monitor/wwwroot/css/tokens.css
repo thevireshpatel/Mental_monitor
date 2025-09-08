@@ -1,0 +1,63 @@
+:root{
+  /* EMOTION-AWARE PALETTES
+     The JS will simply swap the data-emotion attribute on <html>
+     and the colours cascade automatically. */
+  --c-primary: #4f46e5;
+  --c-bg: #fafafa;
+  --c-surface: rgba(255,255,255,.55);
+  --c-text: #1f2937;
+  --c-glow: rgba(79,70,229,.25);
+
+  /* Gradients for the ambient background */
+  --g-top:    #d6e7ff;
+  --g-bottom: #ffe3ec;
+
+  /* Elevation & motion */
+  --shadow-sm: 0 1px 2px rgba(0,0,0,.05);
+  --shadow-md: 0 4px 6px -1px rgba(0,0,0,.1),0 2px 4px -2px rgba(0,0,0,.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0,0,0,.1),0 8px 10px -6px rgba(0,0,0,.1);
+  --radius: 1.1rem;
+  --transition: .6s cubic-bezier(.22,1,.36,1);
+}
+
+/* ---------- EMOTION OVERRIDES ---------- */
+[data-emotion="joy"]{
+  --c-primary: #f59e0b;
+  --c-glow: rgba(245,158,11,.35);
+  --g-top: #fff6d5;
+  --g-bottom: #ffedd5;
+}
+[data-emotion="calm"]{
+  --c-primary: #06b6d4;
+  --c-glow: rgba(6,182,212,.3);
+  --g-top: #dff9ff;
+  --g-bottom: #e0f9ff;
+}
+[data-emotion="sad"]{
+  --c-primary: #6366f1;
+  --c-glow: rgba(99,102,241,.25);
+  --g-top: #e0e7ff;
+  --g-bottom: #e0eafc;
+}
+[data-emotion="anxious"]{
+  --c-primary: #8b5cf6;
+  --c-glow: rgba(139,92,246,.3);
+  --g-top: #f3e8ff;
+  --g-bottom: #ede9fe;
+}
+[data-emotion="angry"]{
+  --c-primary: #ef4444;
+  --c-glow: rgba(239,68,68,.35);
+  --g-top: #fee2e2;
+  --g-bottom: #ffe4e4;
+}
+
+/* ---------- TYPOGRAPHY ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap');
+body{
+  font-family: 'Inter',system-ui,sans-serif;
+  background: linear-gradient(160deg, var(--g-top) 0%, var(--g-bottom) 100%);
+  color: var(--c-text);
+  min-height: 100vh;
+  transition: background var(--transition);
+}

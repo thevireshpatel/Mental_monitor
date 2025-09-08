@@ -1,4 +1,4 @@
-using MentalMonitor.Models;
+﻿using MentalMonitor.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,7 +8,6 @@ public class AccountController : Controller
 {
     private readonly SignInManager<ApplicationUser> _signIn;
     private readonly UserManager<ApplicationUser> _userMgr;
-
     public AccountController(SignInManager<ApplicationUser> s, UserManager<ApplicationUser> u)
     {
         _signIn = s; _userMgr = u;
@@ -54,7 +53,8 @@ public class AccountController : Controller
         return View();
     }
 
-    [HttpPost]
+    [HttpPost]          // ← POST only (no GET)
+    [ValidateAntiForgeryToken]
     public async Task<IActionResult> Logout()
     {
         await _signIn.SignOutAsync();
