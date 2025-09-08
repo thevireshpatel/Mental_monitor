@@ -102,12 +102,6 @@ Copy
 - **Federated learning** – no central server  
 
 ---
-
-## 📸 Screenshots  
-![Home Light](docs/images/home-light.png)  
-![Journal Dark](docs/images/journal-dark.png)  
-![Trends Chart](docs/images/trends-chart.png)  
-
 ## 🚀 Quick Start  
 ```bash
 [git clone https://github.com/thevireshpatel/Mental_monitor.git]
